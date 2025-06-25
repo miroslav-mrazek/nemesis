@@ -31,4 +31,5 @@ Tato SRD je poskytována pod licencí **[Creative Commons Attribution-ShareAlike
 ---
 
 > *„Vítejte na palubě výzkumné lodi Nemesis. Posádka je… momentálně nedostupná. Přejeme příjemný let.“*
+> 
 > — palubní počítač **NORA**
