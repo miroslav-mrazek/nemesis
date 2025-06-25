@@ -1,0 +1,7 @@
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: Nemesis SRD
+tagline: SRD pro hororově-sci-fi vyprávěcí hru na hrdiny inspirovanou deskovou hrou Nemesis.
+description: Nemesis je survival sci-fi hra na hrdiny, ve které se hráči probouzí na poškozené výzkumné lodi v hlubinách vesmíru.
